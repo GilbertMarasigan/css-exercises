@@ -1,0 +1,17 @@
+.btn-class {
+  font-size: 28px;
+  font-family:
+    Helvetica,
+    Times New Roman,
+    sans-serif;
+}
+
+.btn-yes {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-no {
+  background-color: yellow;
+}
